@@ -1,0 +1,32 @@
+
+.bannerContainer{
+    height: 60vh;
+}
+
+.bannerContent{
+    height: 70%;
+}
+
+.bannerHeading, .sloganContainer h2{
+  
+    font-size: 3rem;
+ 
+}
+
+.sloganContainer p{
+    font-size: 1.4rem;
+}
+.companyLogoContainer{
+    flex-wrap: wrap;
+    min-height: 20vh;
+}
+.companyLogoContainer img{
+    width: 50%;
+}
+.pricePlanCardContainer{
+    flex-direction: column;
+}
+.pricePlanCard{
+    width: 100%;
+    margin-bottom: 4rem;
+}
