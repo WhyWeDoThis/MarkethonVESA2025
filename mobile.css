@@ -6,7 +6,12 @@
 .bannerContent{
     height: 70%;
 }
-
+.bannerContent h2{
+    font-size: 2rem;
+}
+.arrowScrollAnimation{
+height: 3vh;
+}
 .bannerHeading, .sloganContainer h2{
   
     font-size: 3rem;
